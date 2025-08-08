@@ -1,0 +1,30 @@
+body {
+  height: auto !important;
+}
+
+.sub-header-bar {
+  position: relative !important;
+}
+
+.intro-text-nim {
+  min-width: 60% !important;
+}
+.intro-text-nim a,
+.richiesta-online-container-nim a {
+  color: #ff1001 !important;
+}
+.intro-text-nim a:hover,
+.richiesta-online-container-nim a:hover {
+  color: #ff1001 !important;
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 766px) {
+  .gray-crane-nim {
+    margin-top: 1.5em;
+  }
+}
+
+.richiesta-online-container-nim {
+  margin-top: 2em;
+}

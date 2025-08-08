@@ -1,0 +1,14 @@
+.intro-text-container-nim p {
+  margin-bottom: 1em;
+}
+.intro-text-container-nim a {
+  color: #ff1001;
+  font-weight: 400;
+}
+.intro-text-container-nim a:hover {
+  text-decoration: underline;
+}
+
+video {
+  width: 100%;
+}
